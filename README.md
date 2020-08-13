@@ -1,5 +1,7 @@
-![sfsdoar](https://github.com/mauriciogirardi/sfsdoar-NLW/blob/master/assets/logo.png)
-<br/>
+<h1 align='center'>
+ <img src='https://github.com/mauriciogirardi/sfsdoar-NLW/blob/master/assets/logo.png' alt='sfsDoar' />
+</h1>
+
 <br/>
 <br/>
 #### O sfsdoar foi criado durante a semana NLW.
